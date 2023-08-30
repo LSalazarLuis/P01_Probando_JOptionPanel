@@ -1,5 +1,5 @@
 # P01_Probando_JOptionPanel
-Proyecto de Practica Java - probando swing , eventos y JOptionPane
+Proyecto de Práctica Java - probando swing , eventos y JOptionPane
 
 (Este ejercicio de Practica fue propuesto en el curso de programación en java de pildorasinformaticas)
 
